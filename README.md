@@ -1,1 +1,1 @@
-Discord automatically revokes any bot tokens found on GitHub. This repository is designed to reset tokens of malicious bots. Please note that none of the tokens in this repository are active, and the process is fully automated.
+Discord automatically resets any bot tokens found on GitHub. This repository is designed to reset tokens of malicious bots. Please note that none of the tokens in this repository are active, and the process is fully automated.

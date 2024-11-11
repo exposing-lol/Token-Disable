@@ -18,3 +18,4 @@
 [Remote Access Tool] | https://discord.gg/exposing | MTMwNTIzNjAyOTQ0MzQwNzkyMg.GruaeT.YnRJjugEne-8ueplgAjqzDORIFDIjXMQyzKlZ4
 [Malware Bot] | https://discord.gg/exposing | MTMwNTU1Mzc1ODg0NzI0MjMzMw.G9H_VK.AzXsqbqKdbYxJgeZU9paLDR32wzgLxPuiE65QU
 [masked] | https://discord.gg/exposing | MTI5NjYwODk0MjMxNDQ4Nzg4OA.GzF0ZD.CIiqhwGhigLySNux6860wYmlUKSq1GSxuf9YLs
+[controller] | https://discord.gg/exposing | MTMwNTU4Mjc1MDA1MjUxNTkyMA.GRLcBr.5KD0U_FFJEq3mw6XLaRXiNtHriOMXtKKGobtpI

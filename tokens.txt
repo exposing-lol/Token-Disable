@@ -124,3 +124,4 @@
 [HackSecure Hub] | MTMxNTQ2NTY5MjY3MzQ3NDU5MQ.GPCiva.NkgczXS_PO9CFhqsuo2E4X4CaiS_1xP6NAtBb4
 [macos_hacks] | MTMxNzE1MTMxMDMxMDY3NDQ1Mw.Gq-B5x.yAU663nmqjWG6nu7dT187nxcCqhsp-ardUfoX8
 [thisisjoelproctor] | MTMxNzk2NTY2NDE2MTM2NjA5Ng.GFxTFf.AlaGEvdbgx1BnH9zfUZV6ly65uxF2jaSj4uvOw
+[Tupper's help bot] | MTMxNzg1OTAwMDA0OTU5ODU2NA.GGlfnG.qiJT-nWSKZOcCLcLPJTKDg8WCQh54jC_2v1bag

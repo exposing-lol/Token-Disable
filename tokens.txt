@@ -169,3 +169,4 @@
 [SBOTv1] | MTMxOTY3MDg4MzMwNDA4MzQ4Ng.Ghrtpv.PWbfywQSUzZeckDYFcS0Es8HxMlwk3RaxC6Z1Q
 [Remote Desktop] | MTMxNzcyMDg5MTkzMjY3NjEyNw.GR4BZy.jjTYOTYEIjYBpgSrr1GXK-BhAoku0-amSnOglA
 [Menace] | MTMyMDc2Nzc4Mzk2MDcwNzE2NA.GK0gUF.OU9WbYr2-yq_nxwfa3gKj0PhdIzzZqHZ5u2d-s
+[sigma] | MTMyMjU3MTk2NDc1MzM4MzQzNA.Gv_tyW.c2mPpnZyoEbjQAuLnYJeYs1MlEgjP2g9Mw53Ro

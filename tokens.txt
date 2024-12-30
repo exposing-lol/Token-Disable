@@ -170,3 +170,4 @@
 [Remote Desktop] | MTMxNzcyMDg5MTkzMjY3NjEyNw.GR4BZy.jjTYOTYEIjYBpgSrr1GXK-BhAoku0-amSnOglA
 [Menace] | MTMyMDc2Nzc4Mzk2MDcwNzE2NA.GK0gUF.OU9WbYr2-yq_nxwfa3gKj0PhdIzzZqHZ5u2d-s
 [sigma] | MTMyMjU3MTk2NDc1MzM4MzQzNA.Gv_tyW.c2mPpnZyoEbjQAuLnYJeYs1MlEgjP2g9Mw53Ro
+[REDSTAR SECURITY MASTER] | MTI5NjEyMzM4MDcxNzg1MDY4Nw.Ge-vvi.IkilhUPn_MNa9vtgAaoU1b6y78eOHuCWhgJKI8
